@@ -1,0 +1,3 @@
+- 👋 Opa Tranquilos?, Me Chamo Luccas, tenho 18 anos e busco atuar na area :)
+- 👀 Sou e sempre fui interessado em saber como tudo funciona, tudo que for de questoes logicas estou buscando me aprofundar
+- 🌱 Atualmente estou aprendendo JavaScript :)
