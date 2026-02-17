@@ -1,33 +1,50 @@
-# 👾 Futuristic Space-Themed Profile 🚀
+# 👨‍🚀 Yzk157 — Backend Developer em Formação
 
-Welcome to my profile! I am a passionate **Backend Developer** with a focus on **Node.js**, **JavaScript**, and **MySQL**. Below you'll find more about my skills, experiences, and enthusiasm for technology.
+![space-banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-## 🚀 About Me
-- **Name:** Yzk157
-- **Current Role:** Intern in Systems Development
-- **Skills:**
-  - Node.js
-  - JavaScript
-  - MySQL
+Olá! Sou o Luccas (Yzk157), desenvolvedor backend em início de carreira. Busco meu primeiro estágio em Desenvolvimento de Sistemas com foco em BackEnd. Minha stack principal:
 
-## 💡 Skills
-- **Backend Development:** Proficient in creating RESTful APIs using Node.js.
-- **Database Management:** Experienced in designing and querying databases with MySQL.
-- **JavaScript:** Strong knowledge of both vanilla JavaScript and frameworks.
+- JavaScript
+- Node.js
+- MySQL
 
-## 🌟 Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yzk157&show_icons=true&theme=radical)
+---
 
-## 🛠️ Tools
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+## ✨ Objetivo
+Busco uma oportunidade de estágio em BackEnd para aplicar e expandir meus conhecimentos em construção de APIs, arquitetura de serviços e banco de dados.
 
-## 🚀 Dynamic Animations
-![space-animation](https://example.com/animation.gif)
+## 🛠️ Skills & Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-## 🔗 Connect with Me
-Feel free to reach out if you want to collaborate or just chat!
+## 🚀 Projetos & Estudos (em destaque)
+> Aqui você pode adicionar projetos pequenos que mostrem suas habilidades em APIs, autenticação e banco de dados. Exemplos de itens que posso adicionar:
+- API REST simples com Node.js e MySQL
+- Projeto CRUD com autenticação (JWT)
+- Integração com serviço externo (consumo de API)
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+---
+
+## 📈 Minhas Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yzk157&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yzk157&layout=compact&theme=dark)
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/luccas-santos-88a199264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: (adicione seu email aqui)
+
+---
+
+## 💬 Gostaria de trabalhar comigo?
+Estou disponível para estágio, envio de CV e entrevistas. Vamos conversar! 🚀
+
+<!-- Footer animado simples -->
+<p align="center"> 
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="rocket" width="120"/>
+</p>
