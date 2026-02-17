@@ -2,7 +2,7 @@
 
 ![space-banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-Olá! Sou o Luccas (Yzk157), desenvolvedor backend em início de carreira. Busco meu primeiro estágio em Desenvolvimento de Sistemas com foco em BackEnd. Minha stack principal:
+Olá! Me chamo Luccas, desenvolvedor backend em início de carreira. Busco meu primeiro estágio em Desenvolvimento de Sistemas com foco em BackEnd. Minha stack principal:
 
 - JavaScript
 - Node.js
@@ -25,6 +25,7 @@ Busco uma oportunidade de estágio em BackEnd para aplicar e expandir meus conhe
 - API REST simples com Node.js e MySQL
 - Projeto CRUD com autenticação (JWT)
 - Integração com serviço externo (consumo de API)
+- Estudando AWS...
 
 ---
 
@@ -37,7 +38,7 @@ Busco uma oportunidade de estágio em BackEnd para aplicar e expandir meus conhe
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/luccas-santos-88a199264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: (adicione seu email aqui)
+- Email: (luccass020@gmail.com)
 
 ---
 
