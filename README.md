@@ -1,29 +1,33 @@
-# Hi there, I'm Yzk157! 👋
+# 👾 Futuristic Space-Themed Profile 🚀
 
-![Banner](https://via.placeholder.com/800x200?text=Backend+Developer+with+Node.js,+JavaScript+and+MySQL)
+Welcome to my profile! I am a passionate **Backend Developer** with a focus on **Node.js**, **JavaScript**, and **MySQL**. Below you'll find more about my skills, experiences, and enthusiasm for technology.
 
-## 🌟 About Me
-I'm a passionate backend developer specializing in:
+## 🚀 About Me
+- **Name:** Yzk157
+- **Current Role:** Intern in Systems Development
+- **Skills:**
+  - Node.js
+  - JavaScript
+  - MySQL
 
-- **Node.js**
-- **JavaScript**
-- **MySQL**
+## 💡 Skills
+- **Backend Development:** Proficient in creating RESTful APIs using Node.js.
+- **Database Management:** Experienced in designing and querying databases with MySQL.
+- **JavaScript:** Strong knowledge of both vanilla JavaScript and frameworks.
 
-## 🚀 Technologies
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+## 🌟 Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yzk157&show_icons=true&theme=radical)
 
-## 🎨 CSS Animations
-<div style="animation:fadeIn 2s;">
-  <h3>💻 Let's build amazing backend solutions!</h3>
-</div>
+## 🛠️ Tools
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-</style>
+## 🚀 Dynamic Animations
+![space-animation](https://example.com/animation.gif)
+
+## 🔗 Connect with Me
+Feel free to reach out if you want to collaborate or just chat!
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
