@@ -29,12 +29,7 @@ Estou construindo projetos práticos com **JavaScript/Node.js**, APIs REST, lóg
 - Conquistar estágio em Backend
 
 ## Contato
-- LinkedIn: `https://www.linkedin.com/in/SEU_LINKEDIN`
+- LinkedIn: `https://www.linkedin.com/in/luccas-santos-88a199264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app`
 - Email: `luccass020@gmail.com`
 
 ---
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yzk157&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yzk157&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
